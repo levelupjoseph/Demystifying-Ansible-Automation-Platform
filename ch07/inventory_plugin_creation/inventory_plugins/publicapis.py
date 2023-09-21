@@ -1,8 +1,6 @@
 DOCUMENTATION = r"""
     inventory: publicapis
     plugin_type: inventory
-    author:
-      - Sean Sullivan (@sean-m-sullivan)
     short_description: Creates an inventory from an API
     version_added: "2.12.3"
     description:
